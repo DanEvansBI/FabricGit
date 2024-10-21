@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "6-Load orders data"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "53a09e3e-9586-4659-b4ca-cde88eca00a9"
+  }
+}

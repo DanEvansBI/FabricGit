@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLQueryset",
+    "displayName": "12-Revenue by Product",
+    "description": "12-Revenue by Product"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ce0534bd-1397-47a8-ab2c-a45c8b2ab0ec"
+  }
+}
